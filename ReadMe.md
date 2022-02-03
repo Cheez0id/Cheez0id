@@ -8,5 +8,5 @@ CURRENT TODO LIST:
 
 ![image](https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=<Cheez0id>&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Cheez0id&theme=<THEME_NAME>" />
 
