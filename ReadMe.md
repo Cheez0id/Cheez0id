@@ -6,9 +6,15 @@ CURRENT TODO LIST:
 - [ ] Homework : E-commerce site
 
 
-![image](https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png)
+<div>
+<a href="https://www.linkedin.com/in/mary-prince-005404200/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Cheez0id&theme=<THEME_NAME>"/>
+</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Cheez0id&theme=<THEME_NAME>" />
+<a href="https://www.instagram.com/marypaintsart">
+<img align="right" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png"/>
+</a>
+</div>
 
 
  
