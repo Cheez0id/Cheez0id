@@ -4,4 +4,4 @@ CURRENT TODO LIST:
 - [ ] Homework : E-commerce site
 
 
-![image](https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/penguin.png)
+![image](https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png)
