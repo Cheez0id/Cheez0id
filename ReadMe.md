@@ -8,11 +8,11 @@ CURRENT TODO LIST:
 
 <div>
 <a href="https://www.linkedin.com/in/mary-prince-005404200/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Cheez0id&theme=<THEME_NAME>"/> Click my stats to go to my LinkedIn!
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Cheez0id&theme=<THEME_NAME>"/> Click to go to my LinkedIn!
 </a>
 <br>
 <a href="https://www.instagram.com/marypaintsart">
-<img align="right" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png"/> Click my Chameleon to go to my Instagram! 
+<img align="right" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png"/> Click to go to my Instagram! 
 </a>
 </div>
 
