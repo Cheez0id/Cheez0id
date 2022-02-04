@@ -1,9 +1,12 @@
 # Greetings, folx! <img src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/reggi27.png" width="100px">
 
 CURRENT TODO LIST:
-- [ ] FULL_STACK_STOREFRONT - group project (in progress)
+- [ ] FULL_STACK_STOREFRONT - group project (in progress❇)
+- [ ] Update/styleize GitHub profile (in progress - little by little when I find the time!❇)
 - [ ] Personal Project: full-stack site to host my traditional and digital art
-- [ ] Homework : E-commerce site
+- [ ] Homework : E-commerce site (in progress❇)
+- [ ] Homework : Full Stack MD Tracker (*top secret* 🤫)
+- [ ] Update Resume and Linkedin (in progress❇)
 
 
 <div>
