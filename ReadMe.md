@@ -2,7 +2,6 @@
 
 CURRENT TODO LIST:
 - [ ] FULL_STACK_STOREFRONT - group project (in progress❇)
-- [ ] Update/styleize GitHub profile (in progress - little by little when I find the time!❇)
 - [ ] Personal Project: full-stack site to host my traditional and digital art
 - [ ] Homework : E-commerce site (in progress❇)
 - [ ] Homework : Full Stack MD Tracker (*top secret* 🤫)
