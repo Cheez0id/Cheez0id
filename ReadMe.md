@@ -18,8 +18,8 @@ CURRENT TODO LIST:
 <img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/></a>
 <br>
 <a href="https://www.instagram.com/marypaintsart/">
-<img align="center" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/instagramname.png"/ width="200px"></a>
-<img align="center" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png" width="200px"></a>
+<img align="center" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/instagramname.png"/ width="200px"><img align="center" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png" width="200px"></a>
+
 </div>
 
 
