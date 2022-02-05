@@ -10,13 +10,16 @@ CURRENT TODO LIST:
 
 
 <div>
-<a href="https://www.linkedin.com/in/mary-prince-005404200/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Cheez0id&theme=<THEME_NAME>"/> Click to go to my LinkedIn!
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Cheez0id&theme=<THEME_NAME>"/> </br>
+
 <br>
-<a href="https://www.instagram.com/marypaintsart">
-<img align="right" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png"/> Click to go to my Instagram! 
-</a>
+<a href="https://www.linkedin.com/in/mary-prince-005404200/">
+<img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg"/></a>
+<br>
+<a href="https://www.instagram.com/marypaintsart/">
+<img align="center" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/instagramname.png"/ width="200px"></a>
+<img align="center" src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/chameleon.png" width="200px"></a>
 </div>
 
 
