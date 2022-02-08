@@ -1,5 +1,7 @@
 # Greetings, folx! <img align="right" img src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/reggi27.png" width="100px">
 
+<a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio (new portfolio ETA 3/1)</a>
+
 CURRENT TODO LIST:
 - [ ] FULL_STACK_STOREFRONT - group project (in progress❇)
 - [ ] Personal Project: full-stack site to host my traditional and digital art
