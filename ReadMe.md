@@ -1,6 +1,21 @@
 # Greetings, folx! <img align="right" img src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/reggi27.png" width="100px">
 
-<a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio (new portfolio ETA 3/1)</a>
+<details><summary>About Me</summary>
+ <br>
+ My name is Mary Prince.
+ <p>
+TL/DR: I'm a Badass that you want on your team!<br><br>
+I love to learn as much as I love working with and leading dynamic, engaged teams towards goals that make a difference for humanity. <br> 
+  My previous leadership experience in the background screening field has prepared me to be a vital bridge between the technologies implemented and users from vendors to clients.
+ <br>
+Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qeBjc4w4NRuaBNd/view">Georgia Institute of Technology curriculum</a> that I'm currently enrolled in. I expect to graduate with bells and whistles and excellent references on March 9th, 2022.
+ <br>
+ I am looking for my next employer!  It could be You!  Check out my <a href="https://www.linkedin.com/in/mary-prince-005404200/">LinkedIn</a> and reach out! 
+ 
+ My <a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio (new portfolio ETA 3/1</)</a> will be replaced by 3/1/22 with a portfolio built using React and other new technologies.
+ <br>
+ </p>
+ </details>
 <details><summary>CURRENT TODO LIST:</summary>
 <ul>
  <li>[x] FULL_STACK_STOREFRONT - group project</li>
