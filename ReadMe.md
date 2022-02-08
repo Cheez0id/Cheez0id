@@ -18,9 +18,9 @@ Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qe
  </details>
 <details><summary>CURRENT TODO LIST:</summary>
 <ul>
- <li>[x] FULL_STACK_STOREFRONT - group project</li>
+ <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">in progress❇</a>)</li>
  <li>[ ] Homework : E-commerce site (in progress❇)</li>
- <li>[ ] Homework : Full Stack MD Tracker (*top secret* 🤫)</li>
+ <li>[ ] Homework : Full Stack App <a href="https://github.com/Cheez0id/EpiMood">EpiMood</a></li>
  <li>[ ] Update Resume and Linkedin (in progress❇)</li>
  <li>[ ] Personal Project: full-stack site to host my traditional and digital art</li>
 
