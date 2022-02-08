@@ -1,14 +1,15 @@
 # Greetings, folx! <img align="right" img src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/reggi27.png" width="100px">
 
 <a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio (new portfolio ETA 3/1)</a>
+<details><summary>CURRENT TODO LIST:</summary>
+<ul>
+ <li>[x] FULL_STACK_STOREFRONT - group project</li>
+ <li>[ ] Homework : E-commerce site (in progress❇)</li>
+ <li>[ ] Homework : Full Stack MD Tracker (*top secret* 🤫)</li>
+ <li>[ ] Update Resume and Linkedin (in progress❇)</li>
+ <li>[ ] Personal Project: full-stack site to host my traditional and digital art</li>
 
-CURRENT TODO LIST:
-- [ ] FULL_STACK_STOREFRONT - group project (in progress❇)
-- [ ] Personal Project: full-stack site to host my traditional and digital art
-- [ ] Homework : E-commerce site (in progress❇)
-- [ ] Homework : Full Stack MD Tracker (*top secret* 🤫)
-- [ ] Update Resume and Linkedin (in progress❇)
-
+ </details>
 
 <div>
 
