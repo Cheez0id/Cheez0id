@@ -2,7 +2,7 @@
 
 <details><summary>About Me</summary>
  <br>
- My name is Mary Prince.
+ Hi! My name is <a href="https://www.linkedin.com/in/mary-prince-005404200/">Mary Prince</a>.
  <p>
 TL/DR: I'm a Badass that you want on your team!<br><br>
 I love to learn as much as I love working with and leading dynamic, engaged teams towards goals that make a difference for humanity. <br> 
