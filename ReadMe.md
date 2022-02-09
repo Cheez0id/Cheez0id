@@ -20,7 +20,7 @@ Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qe
 <ul>
  <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">in progress❇</a>)</li>
  <li>[ ] Homework : E-commerce site (in progress❇)</li>
- <li>[ ] Homework : Full Stack App <a href="https://github.com/Cheez0id/EpiMood">EpiMood</a></li>
+ <li>[ ] Homework : Full Stack App <br><a href="https://github.com/Cheez0id/EpiMood"><img src="https://raw.githubusercontent.com/Cheez0id/EpiMood/main/assets/images/epiMoodLogo.png" width=100px></a></li>
  <li>[ ] Update Resume and Linkedin (in progress❇)</li>
  <li>[ ] Personal Project: full-stack site to host my traditional and digital art</li>
 
