@@ -12,7 +12,7 @@ Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qe
  <br>
  I am looking for my next employer!  It could be You!  Check out my <a href="https://www.linkedin.com/in/mary-prince-005404200/">LinkedIn</a> and reach out! 
  
- My <a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio (new portfolio ETA 3/1</)</a> will be replaced by 3/1/22 with a portfolio built using React and other new technologies.
+ My <a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio (new portfolio ETA 3/1/22)</a> will be replaced by 3/1/22 with a portfolio built using React and other new technologies.
  <br>
  </p>
  </details>
