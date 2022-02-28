@@ -13,7 +13,7 @@ Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qe
  I am looking for my next employer!  It could be You!  Check out my <a href="https://www.linkedin.com/in/mary-prince-005404200/">LinkedIn</a> and reach out! 
  
  <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">Deployed!</a>)</li>
- My <a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio will be replaced by 3/1/22 with <a href="https://cheez0id.github.io/mary-prince/">new portfolio ETA 3/1/22 a portfolio </a> built using React and other new technologies.
+  My <a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio</z> will be replaced by 3/1/22 with <a href="https://cheez0id.github.io/mary-prince/">new portfolio ETA 3/1/22 a portfolio </a> built using React and other new technologies.
  <br>
  </p>
  </details>
