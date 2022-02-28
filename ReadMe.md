@@ -18,9 +18,10 @@ Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qe
  </details>
 <details><summary>CURRENT TODO LIST:</summary>
 <ul>
+ <li>[] UPDATED PORTFOLIO - Work in Progress! (<a href="https://cheez0id.github.io/mary-prince/">Deployed!</a>)</li>
  <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">Deployed!</a>)</li>
- <li>[ ] Homework : E-commerce site (in progress❇)</li>
- <li>[ ] Personal Project (in progress) : Full Stack App <br><a href="https://github.com/Cheez0id/EpiMood"><img src="https://raw.githubusercontent.com/Cheez0id/EpiMood/main/assets/images/epiMoodLogo3.png" width=100px></a></li>
+ <li>[x] Homework : E-commerce site (in progress❇)</li>
+ <li>[x] Personal Project (in progress) : Full Stack App </li>
  <li>[ ] Update Resume and Linkedin (in progress❇)</li>
  <li>[ ] Personal Project: full-stack site to host my traditional and digital art</li>
 
