@@ -7,19 +7,21 @@
 TL/DR: I'm a Badass that you want on your team!<br><br>
 I love to learn as much as I love working with and leading dynamic, engaged teams towards goals that make a difference for humanity. <br> 
   My previous leadership experience in the background screening field has prepared me to be a vital bridge between the technologies implemented and users from vendors to clients.
- <br>
+<a href="https://cheez0id.github.io/mary-prince/">UPDATED PORTFOLIO (a work in progress)</a>
+  https://cheez0id.github.io/mary-prince/
+  <br>
 Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qeBjc4w4NRuaBNd/view">Georgia Institute of Technology Coding Bootcamp Full-Stack Flex Curriculum</a> that I'm currently enrolled in. I expect to graduate with bells and whistles and excellent references on March 9th, 2022.
  <br>
  I am looking for my next employer!  It could be You!  Check out my <a href="https://www.linkedin.com/in/mary-prince-005404200/">LinkedIn</a> and reach out! 
  
- <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">Deployed!</a>)</li>
-  My <a href="https://github.com/Cheez0id/MaryLeePrince-portfolio1">First Simple Portfolio</a> will be replaced by 3/1/22 with <a href="https://cheez0id.github.io/mary-prince/">my new portfolio </a> built using React and other new technologies.
+
+ 
  <br>
  </p>
  </details>
 <details><summary>CURRENT TODO LIST:</summary>
 <ul>
- <li>[] UPDATED PORTFOLIO - Work in Progress! (<a href="https://cheez0id.github.io/mary-prince/">Deployed!</a>)</li>
+ <li>[x] UPDATED PORTFOLIO - Work in Progress! (<a href="https://cheez0id.github.io/mary-prince/">Deployed!</a>)</li>
  <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">Deployed!</a>)</li>
  <li>[x] Homework : E-commerce site (in progress❇)</li>
  <li>[x] Personal Project (in progress) : Full Stack App </li>
