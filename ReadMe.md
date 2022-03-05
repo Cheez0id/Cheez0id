@@ -6,9 +6,9 @@
  <p>
 TL/DR: I'm a Badass that you want on your team!<br><br>
 I love to learn as much as I love working with and leading dynamic, engaged teams towards goals that make a difference for humanity. <br> 
-  My previous leadership experience in the background screening field has prepared me to be a vital bridge between the technologies implemented and users from vendors to clients.
+  My previous leadership experience in the background screening field has prepared me to be a vital bridge between the technologies implemented and users from vendors to clients.<br>
 <a href="https://cheez0id.github.io/mary-prince/">UPDATED PORTFOLIO (a work in progress)</a>
-  https://cheez0id.github.io/mary-prince/
+  
   <br>
 Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qeBjc4w4NRuaBNd/view">Georgia Institute of Technology Coding Bootcamp Full-Stack Flex Curriculum</a> that I'm currently enrolled in. I expect to graduate with bells and whistles and excellent references on March 9th, 2022.
  <br>
