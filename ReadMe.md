@@ -25,7 +25,7 @@ Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qe
  <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">Deployed!</a>)</li>
  <li>[x] Homework : E-commerce site (in progress❇)</li>
  <li>[x] Personal Project (in progress) : Full Stack App </li>
- <li>[ ] Update Resume and Linkedin (in progress❇)</li>
+ <li>[x] Update Resume and Linkedin</li>
  <li>[ ] Personal Project: full-stack site to host my traditional and digital art</li>
 
  </details>
