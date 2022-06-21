@@ -10,7 +10,7 @@ I love to learn as much as I love working with and leading dynamic, engaged team
 <a href="https://cheez0id.github.io/mary-prince/">UPDATED PORTFOLIO (a work in progress)</a>
   
   <br>
-Take a look at the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qeBjc4w4NRuaBNd/view">Georgia Institute of Technology Coding Bootcamp Full-Stack Flex Curriculum</a> that I'm currently enrolled in. I expect to graduate with bells and whistles and excellent references on March 9th, 2022.
+I am currently working as a Teacher's Assistant for the <a href="https://drive.google.com/file/d/1aI961yDONm3oKS4d1qeBjc4w4NRuaBNd/view">Georgia Institute of Technology Coding Bootcamp Full-Stack Flex Curriculum</a>. I graduated from the same course with bells and whistles and excellent references on March 9th, 2022.  
  <br>
  I am looking for my next employer!  It could be You!  Check out my <a href="https://www.linkedin.com/in/mary-prince-005404200/">LinkedIn</a> and reach out! 
  
