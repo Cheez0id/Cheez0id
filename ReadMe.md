@@ -22,11 +22,9 @@ I am currently working as a Teacher's Assistant for the <a href="https://drive.g
 <details><summary>CURRENT TODO LIST:</summary>
 <ul>
  <li>[x] UPDATED PORTFOLIO - Work in Progress! (<a href="https://cheez0id.github.io/mary-prince/">Deployed!</a>)</li>
- <li>[x] FULL_STACK_STOREFRONT - group project (<a href="https://cookies-for-coders-mary.herokuapp.com/">Deployed!</a>)</li>
- <li>[x] Homework : E-commerce site (in progress❇)</li>
  <li>[x] Personal Project (in progress) : Full Stack App </li>
  <li>[x] Update Resume and Linkedin</li>
- <li>[ ] Personal Study: full-stack MERN app continued study</li>
+ <li>[ ] Personal Study: full-stack MERN app continued study❇</li>
  <li>[ ] Personal Project: full-stack site to host my traditional and digital art</li>
 
  </details>
