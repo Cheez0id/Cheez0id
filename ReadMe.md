@@ -25,6 +25,7 @@ I am currently working as a Teacher's Assistant for the <a href="https://drive.g
  <li>[x] Personal Project (in progress) : Full Stack App </li>
  <li>[x] Update Resume and Linkedin</li>
  <li>[ ] Personal Study: full-stack MERN app continued study❇</li>
+ <li>[ ] Personal Study: LeetCode progress (see the <a href="https://github.com/Cheez0id/133tC0de-Practice">Repo</a> ❇</li>
  <li>[ ] Personal Project: full-stack site to host my traditional and digital art</li>
 
  </details>
