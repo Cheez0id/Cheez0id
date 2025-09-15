@@ -1,4 +1,4 @@
-# Greetings, folx! <img align="right" img src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/reggi27.png" width="100px">
+# Greetings<img align="right" img src="https://raw.githubusercontent.com/Cheez0id/MaryLeePrince-portfolio1/main/assets/images/reggi27.png" width="100px">
 
 <details><summary>About Me</summary>
  <br>
